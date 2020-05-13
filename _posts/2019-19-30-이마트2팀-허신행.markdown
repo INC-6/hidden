@@ -1,8 +1,8 @@
-﻿---
+---
 layout: post
 title:  "이마트2팀 허신행"
 date:   2019-06-30 15:39:40
-preview:  https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191930.jpg
+preview:  https://github.com/INC-6/newVersion/blob/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191930.jpg
 ---
 
 ![Picture 1](https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%ED%97%88%EC%8B%A0%ED%96%89.jpg)
