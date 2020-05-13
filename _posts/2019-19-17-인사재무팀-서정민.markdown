@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "인사재무팀 서정민"
+date:   2019-06-17 15:39:40
+preview: https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191917.jpg
+---
+
+![Picture 1](https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EC%A0%95%EB%AF%BC.jpg)
+
+---
+
+### 🔍 **부서 및 이름**
+
+#### 인사재무팀 서정민
+    
+### 🔔 **취미, 특기**
+
+#### 취미: 당구
+  
+#### 특기: 탁구
+
+### 🔔 **담당 업무, 입사 포부, 사우들에게 전하고 싶은 말**
+
+#### 신입사원으로서 개발 역량이나 사내 생활과 관련하여 부족한 부분이 있겠지만,
+    
+#### 유능한 선배님들을 본보기로 삼아 빠르게 적응하고 역량을 키워 신세계아이앤씨의 발전에 보탬이 될 수 있도록 하겠습니다. 감사합니다.

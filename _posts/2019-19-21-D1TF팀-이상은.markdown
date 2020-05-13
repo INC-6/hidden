@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "D1 TF팀 이상은"
+date:   2019-06-21 15:39:40
+preview:   https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191921.jpg
+---
+
+![Picture 1](https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EC%83%81%EC%9D%80.jpg)
+
+---
+
+### 🔍 **부서 및 이름**
+
+#### D1 TF팀 이상은
+    
+### 🔔 **취미, 특기**
+
+#### 취미: 음악감상
+  
+#### 특기: 요리
+
+### 🔔 **담당 업무, 입사 포부, 사우들에게 전하고 싶은 말**
+
+#### D1 TF팀에서 AI개발 업무를 맡게 된 이상은입니다. 
+ 
+#### 선배님들께서 해주시는 좋은 가르침 덕분에 제가 신세계아이앤씨가 어떻게 더 발전해 나갈지 기대되고 설렙니다. 
+ 
+#### 항상 노력하는 모습 보여드리겠습니다. 
+ 
+#### 잘 부탁드립니다.

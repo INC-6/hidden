@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "스타벅스팀 노유정"
+date:   2019-06-13 15:39:40
+preview:  https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191913.jpg
+---
+
+![Picture 1](https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EC%9C%A0%EC%A0%95.jpg)
+
+---
+
+### 🔍 **부서 및 이름**
+
+#### 스타벅스팀 노유정  
+
+### 🔔 **취미, 특기**
+
+#### 취미: 사진촬영
+
+### 🔔 **담당 업무, 입사 포부, 사우들에게 전하고 싶은 말**
+
+#### 스타벅스팀 신입사원 노유정입니다:)
+
+#### 창 밖의 나무들처럼 신세계 아이앤씨인으로서의 자긍심을 쑥쑥 키워나가고자 합니다.
+
+#### 앞으로도  맡고 있는 일에 대해서 NO가 아닌 YES를 외치는 긍정적인 예쓰유정이 되겠습니다.
+
+#### 오~ 예쓰!
+
+{% capture images %}
+https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EC%98%A4%EB%A7%8C%EC%9B%90%EC%9C%A0%EC%A0%95.jpg
+{% endcapture %}
+{% include gallery images=images caption="이 사진을 보는 여러분 모두 부자되세요~!" cols=1 %}

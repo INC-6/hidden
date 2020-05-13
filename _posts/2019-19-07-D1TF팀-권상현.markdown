@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "D1 TF팀 권상현"
+date:   2019-06-07 15:39:40
+preview: https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191907.jpg
+---
+
+![Picture 1](https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EA%B6%8C%EC%83%81%ED%98%84.jpg)
+
+### 🔍 **부서 및 이름**
+    
+#### D1 TF팀 권상현
+
+### 🔔 **취미, 특기**
+
+#### 취미: 볼링
+   
+#### 특기: 상담
+
+### 🔔 **담당 업무, 입사 포부, 사우들에게 전하고 싶은 말**
+
+#### 안녕하십니까, D1 TF팀에서 AI 개발을 담당하고 있는 신입사원 권상현입니다.
+
+#### 인턴 기간 동안 느낀 열정과 순수함의 초심을 잃지 않으며, 모든 일에 적극적인 사원이 되고자 합니다.
+
+#### 매 순간 최선을 다하며 열심히 지내겠습니다. 감사합니다.

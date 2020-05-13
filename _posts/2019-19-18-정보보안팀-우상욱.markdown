@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "정보보안팀 우상욱"
+date:   2019-06-18 15:39:40
+preview: https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191918.jpg
+---
+
+{% capture images %}
+https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EC%83%81%EC%9A%B1.jpg
+{% endcapture %}
+{% include gallery images=images caption="취미는 자전거." cols=1 %}
+
+---
+
+### 🔍 **부서 및 이름**
+
+#### 정보보안팀 우상욱
+    
+### 🔔 **취미, 특기**
+
+#### 취미: 자전거타고 맛집 탐방
+  
+#### 특기: 자전거 커스터마이징
+
+### 🔔 **담당 업무, 입사 포부, 사우들에게 전하고 싶은 말**
+
+#### 안녕하세요? 정보보안팀에서 방화벽 업무를 배우고 있는 우상욱입니다.:-)
+  
+#### 희망했던 정보보안팀에 오게 되 너무 기쁩니다.
+  
+#### 하루빨리 방화벽 장비를 익혀서 위협으로부터 안전한 아이앤씨를 만들겠습니다.
+  
+#### 잘 부탁드립니다. 감사합니다.
+    

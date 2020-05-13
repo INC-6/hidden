@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "POS팀 황동욱"
+date:   2019-06-31 15:39:40
+preview:  https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191931.jpg
+---
+
+{% capture images %}
+https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%ED%99%A9%EB%8F%99%EC%9A%B1.jpg
+{% endcapture %}
+{% include gallery images=images caption="인턴 수료 후 동기들과." cols=1 %}
+
+---
+
+### 🔍 **부서 및 이름**
+    
+#### POS팀 황동욱
+
+### 🔔 **취미, 특기**
+
+#### 취미 : 운동
+   
+#### 특기 : 계획세우기
+
+### 🔔 **담당 업무, 입사 포부, 사우들에게 전하고 싶은 말**
+ 
+#### 안녕하세요! POS팀 결제파트 신입사우 황동욱 담당입니다.
+   
+#### '유능한 사람은 언제나 배우는 사람이다' 라는 말이 있습니다.
+   
+#### 항상 배우는 자세로 맡은 결제파트 업무에 임하고 신세계I&C와 POS팀의 유능한 일원이 되기 위해서 꾸준히 노력하겠습니다.
+   
+#### 감사합니다!

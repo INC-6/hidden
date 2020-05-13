@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "이마트2팀 이진원"
+date:   2019-06-23 15:39:40
+preview: https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191923.jpg
+---
+
+{% capture images %}
+https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EC%9D%B4%EC%A7%84%EC%9B%901.jpg
+{% endcapture %}
+{% include gallery images=images caption="Do Run(마라톤 메달 일곱개 보유자)" cols=1 %}
+
+---
+
+### 🔍 **부서 및 이름**
+    
+#### 이마트2팀 이진원
+
+### 🔔 **취미, 특기**
+
+#### 취미: 기록
+    
+#### 특기: 가치에 의미 두기
+
+### 🔔 **담당 업무, 입사 포부, 사우들에게 전하고 싶은 말**
+ 
+#### 이마트2팀 DWH 파트에서 CRM 업무를 담당하고 있는 이진원입니다.
+    
+#### 잘못한 부분은 즉시 인정하고 긍정적인 자신감과 적극적인 실행력으로 끊임없이 무엇인가를 배워나가겠습니다. :D
+
+### 🔗 동영상 링크
+##### (사내망 이용 시 안 보일 수도 있습니다.)
+
+[![Video Label](https://img.youtube.com/vi/VMcHRsKUrcI/0.jpg)](https://www.youtube.com/watch?v=VMcHRsKUrcI)
+
+{% capture images %}
+https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EC%9D%B4%EC%A7%84%EC%9B%902.jpg
+{% endcapture %}
+{% include gallery images=images caption="오늘이 내생에 가장 젊은날 \*^0^* " cols=1 %}
