@@ -1,8 +1,8 @@
-﻿---
+---
 layout: post
 title:  "POS팀 주영훈"
 date:   2019-06-26 15:39:40
-preview:  https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191926.jpg
+preview:  https://raw.githubusercontent.com/INC-6/newVersion/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191926.jpg
 ---
 
 ![Picture 1](https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EC%98%81%ED%9B%88.jpg)
