@@ -2,10 +2,10 @@
 layout: post
 title:  "D1 TF팀 권상현"
 date:   2019-06-07 15:39:40
-preview: https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191907.jpg
+preview: https://raw.githubusercontent.com/INC-6/newVersion/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191907.jpg
 ---
 
-![Picture 1](https://raw.githubusercontent.com/INC-6/newVersion/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191907.jpg)
+![Picture 1](https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EA%B6%8C%EC%83%81%ED%98%84.jpg)
 
 ### 🔍 **부서 및 이름**
     
