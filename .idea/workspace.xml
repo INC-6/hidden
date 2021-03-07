@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="250b3abe-5a93-4177-ab71-925553aee67b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_asset/동기사진/191925.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_asset/동기사진/191926.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-19-25-D1TF팀-주상훈.markdown" afterPath="$PROJECT_DIR$/_posts/2019-19-25-D1TF팀-주상훈.markdown" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -71,23 +71,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="191927.jpg" pinned="false" current-in-tab="true">
+      <file leaf-file-name="191927.jpg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_asset/동기사진/191927.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-19-10-플랫폼개발팀-김지원.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-19-10-플랫폼개발팀-김지원.markdown">
+      <file leaf-file-name="2019-19-26-POS팀-주영훈.markdown" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-19-26-POS팀-주영훈.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="54">
-                <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="72">
+                <caret line="4" column="122" lean-forward="false" selection-start-line="4" selection-start-column="122" selection-end-line="4" selection-end-column="122" />
                 <folding />
               </first_editor>
               <second_editor />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-19-25-D1TF팀-주상훈.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-19-25-D1TF팀-주상훈.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="72">
+                <caret line="4" column="122" lean-forward="false" selection-start-line="4" selection-start-column="122" selection-end-line="4" selection-end-column="122" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="191926.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_asset/동기사진/191926.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -140,16 +160,16 @@
         <option value="$PROJECT_DIR$/_posts/2019-19-19-플랫폼개발팀-위진학.markdown" />
         <option value="$PROJECT_DIR$/_posts/2019-19-20-인터내셔날-유순명.markdown" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
-        <option value="$PROJECT_DIR$/_posts/2019-19-25-D1TF팀-주상훈.markdown" />
         <option value="$PROJECT_DIR$/_posts/2019-19-21-D1TF팀-이상은.markdown" />
         <option value="$PROJECT_DIR$/_posts/2019-19-11-인사재무팀-김지현.markdown" />
         <option value="$PROJECT_DIR$/_posts/2019-19-09-프라퍼티팀-김지영.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2019-19-26-POS팀-주영훈.markdown" />
         <option value="$PROJECT_DIR$/_posts/2019-19-29-이마트1팀-한승은.markdown" />
         <option value="$PROJECT_DIR$/_posts/2019-19-28-면세점팀-최필성.markdown" />
         <option value="$PROJECT_DIR$/_posts/2019-19-15-에브리데이팀-박나영.markdown" />
         <option value="$PROJECT_DIR$/_posts/2019-19-23-이마트2팀-이진원.markdown" />
         <option value="$PROJECT_DIR$/_posts/2019-19-07-D1TF팀-권상현.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2019-19-25-D1TF팀-주상훈.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2019-19-26-POS팀-주영훈.markdown" />
       </list>
     </option>
   </component>
@@ -221,16 +241,16 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SSG\Desktop\urban-theme-master\_asset\셀카" />
+      <recent name="C:\Users\SSG\Desktop\urban-theme-master\_includes" />
+      <recent name="C:\Users\SSG\Desktop\urban-theme-master\_posts" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_asset/동기사진" />
       <recent name="C:\Users\SSG\Desktop\urban-theme-master\_asset\셀카" />
       <recent name="C:\Users\SSG\Desktop\urban-theme-master\_asset" />
       <recent name="C:\Users\SSG\Desktop\urban-theme-master\_includes" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\SSG\Desktop\urban-theme-master\_asset\셀카" />
-      <recent name="C:\Users\SSG\Desktop\urban-theme-master\_includes" />
-      <recent name="C:\Users\SSG\Desktop\urban-theme-master\_posts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -269,17 +289,18 @@
       <workItem from="1598275090262" duration="506000" />
       <workItem from="1598275671702" duration="63000" />
       <workItem from="1599109269033" duration="90000" />
-      <workItem from="1615127675936" duration="179000" />
+      <workItem from="1615127675936" duration="393000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47574000" />
+    <option name="totallyTimeSpent" value="47788000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1280" y="-330" width="1280" height="1351" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15091342" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.223193" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -495,16 +516,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-19-25-D1TF팀-주상훈.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="286">
-            <caret line="31" column="18" lean-forward="false" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-19-21-D1TF팀-이상은.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -520,16 +531,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="242">
             <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-19-26-POS팀-주영훈.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="220">
-            <caret line="22" column="4" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
@@ -721,6 +722,28 @@
     <entry file="file://$PROJECT_DIR$/_asset/동기사진/191926.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-19-25-D1TF팀-주상훈.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="72">
+            <caret line="4" column="122" lean-forward="false" selection-start-line="4" selection-start-column="122" selection-end-line="4" selection-end-column="122" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-19-26-POS팀-주영훈.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="72">
+            <caret line="4" column="122" lean-forward="false" selection-start-line="4" selection-start-column="122" selection-end-line="4" selection-end-column="122" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
       </provider>
     </entry>
   </component>
