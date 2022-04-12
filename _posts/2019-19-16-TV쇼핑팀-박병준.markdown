@@ -2,7 +2,7 @@
 layout: post
 title:  "TV쇼핑팀 박병준"
 date:   2019-06-16 15:39:40
-preview: https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191916.jpg
+preview: https://raw.githubusercontent.com/INC-6/newVersion/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191912.jpg
 ---
 
 {% capture images %}
