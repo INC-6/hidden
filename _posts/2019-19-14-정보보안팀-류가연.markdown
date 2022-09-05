@@ -2,7 +2,7 @@
 layout: post
 title:  "정보보안팀 류가연"
 date:   2019-06-14 15:39:40
-preview:  https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191914.jpg
+preview:  https://raw.githubusercontent.com/INC-6/newVersion/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191914.jpg
 ---
 
 ![Picture 1](https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EA%B0%80%EC%97%B0.jpg)
