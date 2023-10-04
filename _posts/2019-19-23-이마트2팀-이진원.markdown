@@ -2,7 +2,7 @@
 layout: post
 title:  "이마트2팀 이진원"
 date:   2019-06-23 15:39:40
-preview: https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191923.jpg
+preview: https://raw.githubusercontent.com/INC-6/newVersion/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191923.jpg
 ---
 
 {% capture images %}
