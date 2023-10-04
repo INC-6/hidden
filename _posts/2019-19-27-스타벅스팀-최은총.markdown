@@ -2,7 +2,7 @@
 layout: post
 title:  "스타벅스팀 최은총"
 date:   2019-06-27 15:39:40
-preview:  https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191927.jpg
+preview:  https://raw.githubusercontent.com/INC-6/newVersion/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191927.jpg
 ---
 
 ![Picture 1](https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%EC%B5%9C%EC%9D%80%EC%B4%9D.jpg)
