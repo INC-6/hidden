@@ -34,7 +34,6 @@
     .row .column.column-33, .row .column.column-34 {
         flex: 0 0 100%;
         max-width: 100%;
-        text-align:center;
     }
 }
 
@@ -60,6 +59,7 @@
     padding: 1rem;
     box-sizing: border-box;
     border: 1px solid $color-initial;
+    text-align: center;
  
     &:hover {
         border: 1px solid $grey-color-light;
