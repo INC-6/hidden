@@ -5,6 +5,7 @@ date:   2019-06-28 15:39:40
 preview:  https://raw.githubusercontent.com/INC-6/newVersion/master/_asset/%EB%8F%99%EA%B8%B0%EC%82%AC%EC%A7%84/191928.jpg
 ---
 
+
 ![Picture 1](https://raw.githubusercontent.com/INC-6/INC-6.github.io/master/_asset/%EC%85%80%EC%B9%B4/%ED%95%84%EC%84%B102.PNG)
 
 ---
